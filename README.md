@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <a href="https://jeanknieling.github.io/devlinks-discover/" target="_blank">Link do projeto finalizado</a>
+  <a href="https://jeanknieling.github.io/devlinks-discover-rocketseat" target="_blank">Link do projeto finalizado</a>
 </p>
 
 ## 🚀 Tecnologias
